@@ -76,5 +76,11 @@ public:
 			}
 			cout << endl;
 		}
+		else {
+			//jika FRONT_position <=REAr_position,iterasi dari FRONT hingga akhir array
+			while (FRONT_position <= max - 1) {
+
+			}
+		}
 	}
 };
